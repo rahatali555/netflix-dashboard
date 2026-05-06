@@ -44,6 +44,5 @@ const [data , setData] = useState([]);
     </div>
   );
   
-
 }
 export default App;
